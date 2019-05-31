@@ -1,5 +1,6 @@
 Onion
 tomato
 Avocado
-limes
+lime
 salt
+pepper
